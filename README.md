@@ -1,4 +1,4 @@
-### `Hello there, my name is Jalles.` 🪐
+### `Hello there, my name is Jalles.` :star2:
 ________________________________________
 <div align="center">
   <a href="https://github.com/gabrieljalles">
