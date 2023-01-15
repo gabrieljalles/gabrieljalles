@@ -1,8 +1,7 @@
-### `Hello there, my name is Jalles.` :star2:
+### `Hello there, my name is Gabriel Jalles.` :star2:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<div align="center">  
-  <i class="devicon-express-original"></i>
+<div align="left">  
   <img height="33em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="33em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img height="33em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -13,21 +12,6 @@
   <img height="33em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img height="33em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
 </div>
-
-          
-
-          
-          
-          
-            
-          
-  
-          
-          
-          
-          
-          
-
 <!--
 **gabrieljalles/gabrieljalles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
