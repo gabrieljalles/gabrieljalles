@@ -1,4 +1,4 @@
-### `Hello there, my name is Gabriel Jalles.` :star2:
+### `Hello there, I am Gabriel Jalles.` :star2:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <div align="left">  
